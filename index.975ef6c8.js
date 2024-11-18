@@ -27088,7 +27088,7 @@ var _stylesCss = require("./styles.css");
  * If you don't have one of the social sites listed, leave it as an empty string.
  */ const siteProps = {
     name: "Adithya Shenoy",
-    title: "Web developer & Student",
+    title: "Programmer & Student",
     email: "adityashenoy166@gmail.com",
     gitHub: "coconut-tree",
     instagram: "",
@@ -27187,12 +27187,12 @@ const imageAltText = "purple and blue abstract background";
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */ const skillsList = [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design", 
+    "Problem Solving",
+    "Software Development",
+    "Collaboration",
+    "Leadership",
+    "Object Oriented Design",
+    "Team Player", 
 ];
 /**
  * Use this to give more information about what you are passionate about,
@@ -28622,8 +28622,8 @@ var _propTypesDefault = parcelHelpers.interopDefault(_propTypes);
  *
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
- */ var _lake4839058640Jpg = require("../images/lake-4839058_640.jpg");
-var _lake4839058640JpgDefault = parcelHelpers.interopDefault(_lake4839058640Jpg);
+ */ var _pawelCzerwinskiAOTFGDNmTYUnsplashJpg = require("../images/pawel-czerwinski-aOTFGD_NmTY-unsplash.jpg");
+var _pawelCzerwinskiAOTFGDNmTYUnsplashJpgDefault = parcelHelpers.interopDefault(_pawelCzerwinskiAOTFGDNmTYUnsplashJpg);
 const imageAltText = "Adult female in office setting leaning against a glass wall while holding a platinum Microsoft Surface Pro 7 in tablet mode preparing to write with Microsoft Surface Pen";
 const Home = ({ name , title  })=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
@@ -28632,7 +28632,7 @@ const Home = ({ name , title  })=>{
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                 className: "background",
-                src: (0, _lake4839058640JpgDefault.default),
+                src: (0, _pawelCzerwinskiAOTFGDNmTYUnsplashJpgDefault.default),
                 alt: ""
             }, void 0, false, {
                 fileName: "src/Components/Home.jsx",
@@ -28715,11 +28715,11 @@ $RefreshReg$(_c, "Home");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../images/down-arrow.svg":"b5nCi","prop-types":"7wKI2","../images/lake-4839058_640.jpg":"bKVpq","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"b5nCi":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../images/down-arrow.svg":"b5nCi","prop-types":"7wKI2","../images/pawel-czerwinski-aOTFGD_NmTY-unsplash.jpg":"ioST2","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"b5nCi":[function(require,module,exports) {
 module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "down-arrow.1037091f.svg" + "?" + Date.now();
 
-},{"./helpers/bundle-url":"lgJ39"}],"bKVpq":[function(require,module,exports) {
-module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "lake-4839058_640.1a173407.jpg" + "?" + Date.now();
+},{"./helpers/bundle-url":"lgJ39"}],"ioST2":[function(require,module,exports) {
+module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "pawel-czerwinski-aOTFGD_NmTY-unsplash.0ce35b91.jpg" + "?" + Date.now();
 
 },{"./helpers/bundle-url":"lgJ39"}],"lCaEt":[function(require,module,exports) {
 var $parcel$ReactRefreshHelpers$ed0d = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
